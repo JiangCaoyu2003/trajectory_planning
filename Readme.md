@@ -1,14 +1,17 @@
 # Readme #
 ##文件架构说明##
 ├── .idea/                 # 开发工具（PyCharm）生成的配置文件夹
-├── output汇总/           # 输出结果文件的汇总目录（如轨迹文件、实验结果等）
+├── .idea/                 # 开发工具（如PyCharm）生成的配置文件夹
+├── output汇总/            # 输出结果文件的汇总目录（如轨迹文件、实验结果等）
 ├── .gitattributes         # Git属性配置文件
 ├── Readme.md              # 项目说明文档，介绍项目用途、使用方法等
 ├── requirements.txt       # 项目依赖的Python库列表
 ├── trajectory_planning.py # 主程序代码
+├── trajectory_planning.py # 主程序代码，用于喷涂轨迹规划
 ├── 任务1-左前门模型.obj    # 任务1的3D模型文件（左前门部件）
 ├── 任务2-左前翼子板模型.obj # 任务2的3D模型文件（左前翼子板部件）
 ├── 任务3-前盖模型.obj      # 任务3的3D模型文件（前盖部件）
+
 ## intrudctions： ##
 
 先创建虚拟环境，这里不赘述
