@@ -1,11 +1,11 @@
 # Readme #
-##文件架构说明##
+## 文件架构说明
+
 ├── .idea/                 # 开发工具（PyCharm）生成的配置文件夹
-├── .idea/                 # 开发工具（如PyCharm）生成的配置文件夹
 ├── output汇总/            # 输出结果文件的汇总目录（如轨迹文件、实验结果等）
 ├── .gitattributes         # Git属性配置文件
 ├── Readme.md              # 项目说明文档，介绍项目用途、使用方法等
-├── requirements.txt       # 项目依赖的Python库列表
+├── requirements.txt       # 项目依赖的Python库
 ├── trajectory_planning.py # 主程序代码
 ├── trajectory_planning.py # 主程序代码，用于喷涂轨迹规划
 ├── 任务1-左前门模型.obj    # 任务1的3D模型文件（左前门部件）
