@@ -24,7 +24,7 @@
 
    `--spacing <spacing>`：叠枪距离，单位为毫米（如 `80` 或 `100`）。
 
-   `--epochs <epochs>`：训练的迭代次数，默认为 10 次。
+   `--epochs <epochs>`：训练的迭代次数，默认为 1000 次。
 
    `--lr <learning_rate>`：学习率，默认为 0.001。
 
@@ -36,7 +36,7 @@
 
 代码正常运行结果呈现：
 
-![image-20250113013419070](C:\Users\LENOVO\AppData\Roaming\Typora\typora-user-images\image-20250113013419070.png)
+![image-20250113013419070](C:\Users\LENOVO\PycharmProjects\trajectory_planning\output汇总\image-20250113013419070.png)
 
 ## 基于多目标规划模型的喷涂轨迹规划神经网络购建说明 ##
 
