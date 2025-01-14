@@ -13,7 +13,7 @@
 
 ├── trajectory_planning.py # 主程序代码
 
-├── trajectory_planning.py # 主程序代码，用于喷涂轨迹规划
+├── trajectory & surface.py # 结果可视化程序
 
 ├── 任务1-左前门模型.obj    # 任务1的3D模型文件（左前门部件）
 
